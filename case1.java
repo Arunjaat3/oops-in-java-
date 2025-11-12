@@ -7,7 +7,7 @@ public class case1 {
     }
     public static void main(String[] args) {
         case1 c = new case1();
-        c.show(20); 
+        c.show("abc");  
     }
     
 }
